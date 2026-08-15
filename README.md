@@ -4,4 +4,3 @@
 
 🔗 https://Nan714.github.io/Nan-notes/
 
-部署与维护说明见 [DEPLOY.md](DEPLOY.md)。
