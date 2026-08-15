@@ -1,0 +1,4 @@
+- Until the Return value appers, that call has not completed.
+- Any statement can appear before or after the recursive call.
+- put the base cases first
+- 
