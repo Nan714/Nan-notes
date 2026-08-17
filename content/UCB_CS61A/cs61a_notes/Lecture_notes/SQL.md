@@ -1,3 +1,10 @@
+---
+tags:
+  - cs61a
+  - sql
+  - databases
+---
+
 # Databases
 
 ## Database Management Systems (DBMS)
@@ -235,6 +242,14 @@ zero|0
 select word from ints
 where one +two/2 + four/4 + eight/8 = 1;
 ```
+
+---
+
+## Related
+
+- [[Databases]]
+- [[Tables]]
+- [[Aggregation]]
 
 ---
 

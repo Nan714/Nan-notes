@@ -20,6 +20,34 @@
       "contentDigest": "804ca83d744bf365c2d135fd5e3128aec2a4844fc9d5152c86c0ad340b9b5dd9",
       "providerUserMessageId": "37ba8cef-3a5b-432d-b201-47d7c22f0c9e",
       "providerAssistantMessageId": "da501316-11c7-42ce-81c4-afe5d13060e7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786958385091-29m3xx0",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786958385087-3ftk7po",
+      "timestamp": 1786958385087,
+      "rawDisplayText": "不错！接下来将Lecture_notes里面的所有文件都整理笔记，然后在适当的地方加上标签之类的 让我的关系图谱能起作用",
+      "canonicalText": "不错！接下来将Lecture_notes里面的所有文件都整理笔记，然后在适当的地方加上标签之类的 让我的关系图谱能起作用",
+      "images": [],
+      "contentDigest": "f016ed07ec02dcfde6fc4d673ad488dbae35cd2936c34d1562e783e2484d486b",
+      "providerUserMessageId": "0a66ff26-9308-4801-ac52-7171a073aec5",
+      "providerAssistantMessageId": "fd1ef07e-70ba-41f4-99b5-5c1e248b71f7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786959457750-mu23dkw",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786959457746-pk1iwwn",
+      "timestamp": 1786959457746,
+      "rawDisplayText": "要",
+      "canonicalText": "要",
+      "images": [],
+      "contentDigest": "fc28bd21b085d4aeb5fbcd0a20ef2bf2f59569864172c129c9f151a935ee2e4e",
+      "providerUserMessageId": "0b11f720-6652-4980-9e48-6756627f7c68",
+      "providerAssistantMessageId": "0b8e5bff-1652-458d-b168-2b4f4f217e51"
     }
   ]
 }

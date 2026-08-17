@@ -1,4 +1,19 @@
-- Until the Return value appers, that call has not completed.
+---
+tags:
+  - cs61a
+  - recursion
+---
+
+# Recursion
+
+- Until the return value appears, that call has not completed.
 - Any statement can appear before or after the recursive call.
-- put the base cases first
-- 
+- Put the base cases first.
+
+---
+
+## Related
+
+- [[Functions]]
+- [[Trees]]
+- [[Decomposition]]
