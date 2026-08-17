@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786955695172-t50w29yxo",
+  "providerId": "claude",
+  "title": "Begin conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786955695180,
+  "lastActivityAt": 1786955715846,
+  "sessionId": "f63de170-737e-4b30-b441-23eb13e6d57a",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "f63de170-737e-4b30-b441-23eb13e6d57a"
+  },
+  "currentNote": "cs61a_notes/Lecture_notes/Aggregation.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 498,
+    "cacheReadInputTokens": 22239,
+    "contextWindow": 1000000,
+    "contextTokens": 22739,
+    "percentage": 2
+  }
+}

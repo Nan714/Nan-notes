@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786955798173-c9ft5xhj1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786955798252-lpobneq",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786955798168-h9bvlvb",
+      "timestamp": 1786955798168,
+      "rawDisplayText": "你可以整理一下我的笔记吗？我现在基本上都是截图，感觉不是很好看，你可以根据我的截图写点笔记出来吗？然后所有截图保留在末尾 谢谢",
+      "canonicalText": "你可以整理一下我的笔记吗？我现在基本上都是截图，感觉不是很好看，你可以根据我的截图写点笔记出来吗？然后所有截图保留在末尾 谢谢",
+      "context": {
+        "currentNote": {
+          "path": "cs61a_notes/Lecture_notes/SQL.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "804ca83d744bf365c2d135fd5e3128aec2a4844fc9d5152c86c0ad340b9b5dd9",
+      "providerUserMessageId": "37ba8cef-3a5b-432d-b201-47d7c22f0c9e",
+      "providerAssistantMessageId": "da501316-11c7-42ce-81c4-afe5d13060e7"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786955798173-c9ft5xhj1",
+  "providerId": "claude",
+  "title": "Organize notes from screenshots",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786955798181,
+  "lastActivityAt": 1786955869317,
+  "sessionId": "a25d9dc6-fc50-4b9c-a76c-adf75d88d1ca",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "a25d9dc6-fc50-4b9c-a76c-adf75d88d1ca"
+  },
+  "currentNote": "cs61a_notes/Lecture_notes/SQL.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 5359,
+    "cacheReadInputTokens": 42864,
+    "contextWindow": 1000000,
+    "contextTokens": 48225,
+    "percentage": 5
+  }
+}

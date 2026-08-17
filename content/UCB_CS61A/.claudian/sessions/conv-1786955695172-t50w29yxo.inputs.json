@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786955695172-t50w29yxo",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786955695255-qzc6bg0",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786955695164-w08zwvk",
+      "timestamp": 1786955695164,
+      "rawDisplayText": "你好",
+      "canonicalText": "你好",
+      "context": {
+        "currentNote": {
+          "path": "cs61a_notes/Lecture_notes/Aggregation.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "815b1925f3db319cfc8ef8cad8a91b3f8b512f630d8f82635cb105e93e666c2a",
+      "providerUserMessageId": "d10318ae-58dd-42f4-a8fb-212f58360625",
+      "providerAssistantMessageId": "a11042a9-f862-4f94-bf85-4046de23dd6b"
+    }
+  ]
+}
